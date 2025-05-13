@@ -29,8 +29,8 @@ A web-based quiz game to test your knowledge of European flags. The quiz randoml
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/european-flag-quiz.git
-   cd european-flag-quiz
+   git clone https://github.com/yourusername/euroFlags.git
+   cd euroFlags
    ```
 
 2. Open the project:
